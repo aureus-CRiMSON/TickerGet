@@ -9,3 +9,8 @@ As of now, it does not do much other than print said data out to a log file loca
 ## Goals
 * Serial Port Communication
 * Network Communication
+* Get Song Difficulty
+* Get Song Artist
+* Get 1p/2p information on each song as well
+* Get Song Category (game version)
+* Get Song Genre
